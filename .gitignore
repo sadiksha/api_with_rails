@@ -17,3 +17,7 @@
 /tmp
 /public/*
 Gemfile.lock
+doc/
+*.swp
+*~
+.DS_Store
